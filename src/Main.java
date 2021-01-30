@@ -4,9 +4,8 @@ public class Main
         renter user = new renter();
 
         user.inRenterMan();
-        user.passport();
         user.outInfoRenterMan();
-        user.col();
+//        System.out.println(  (user.PersonBase()));
 
     }
 }
